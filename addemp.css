@@ -1,0 +1,44 @@
+
+body{
+    background-image: url("addemp.jpeg");
+    background-size: cover;
+}
+
+#Register {
+
+     background:transparent;
+
+     color:white;
+
+     border-color: none;
+
+     height: 50px;
+
+     width: 200px;
+
+     font: bold 30px arial;
+
+     text-shadow:snow;
+ }
+ #t1{
+         background:white ;opacity:0.4;
+
+     color:#004080;
+
+     border-style: outset;
+
+     border-color: none;
+
+     height: 40px;
+
+     width: 400px;
+
+     font: bold 30px arial;
+
+     text-shadow:snow;
+ }
+h4{
+     font: bold 20px arial;
+     color:white;
+      border-color: none;
+}

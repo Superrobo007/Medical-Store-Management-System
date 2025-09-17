@@ -1,0 +1,36 @@
+h1{
+  color: #e6004c;}
+
+
+body{
+    background-image: url("login.jpg");
+    background-size:cover;
+}
+input[type="text"], textarea {
+
+  background-color :  white ;opacity:0.6; 
+color:black;
+font: bold 50px arial;
+}
+input[type="password"], textarea {
+
+  background-color : white ;opacity:0.6;
+color:black;
+font: bold 50px arial;
+}
+
+#submit {
+
+     background:white ;opacity:0.4;
+
+     color:#e6004c;;
+
+     border-style: outset;
+
+     border-color: none;
+     width: 240px;
+     height: 40px;
+     font: bold 50px arial;
+     text-shadow:snow;
+ }
+

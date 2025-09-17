@@ -1,0 +1,52 @@
+
+body{
+    background-image: url("addm.jpg");
+    background-size: cover;
+}
+
+#Register {
+
+     background:white ;opacity:0.7;
+
+     color:Black;
+
+     border-color: none;
+
+     height: 50px;
+
+     width: 200px;
+
+     font: bold 30px arial;
+
+     text-shadow:snow;
+ }
+ #t1{
+         background:white ;opacity:0.4;
+
+     color:#004080;
+
+     border-style: outset;
+
+     border-color: none;
+
+     height: 40px;
+
+     width: 400px;
+
+     font: bold 30px arial;
+
+     text-shadow:snow;
+ }
+h4{
+    background:white ;opacity:0.7;
+     font: bold 30px arial;
+     color:darkorange;
+      border-color: none;
+}
+h2{
+
+    font: bold 30px arial;
+     color:darkgreen;
+      border-color: none;
+}
+
